@@ -30,6 +30,6 @@
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dhruv-kachhadia-24aa42192/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dhruvkachhadia@gmail.com)
 
-
+### 📈 **Github Stats**
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dhruv1294&count_private=true&show_icons=true&theme=radical&includeForks=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1294&count_private=true&show_icons=true&theme=radical&includeForks=true)
