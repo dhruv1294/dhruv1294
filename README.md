@@ -1,4 +1,4 @@
-### Hi there :wave: I am Dhruv Kachhadia , I am -
+### Hi there <img src="https://github.com/satyamurti/satyamurti/blob/master/Hi.gif" width="29px"> I am Dhruv Kachhadia , I am -
 
 - An Android Application Developer
 
