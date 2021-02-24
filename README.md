@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/PriyanshuDangi/PriyanshuDangi/blob/master/Hi.gif" width="29px"> I am Dhruv Kachhadia , I am -
+### Hi there :wave: I am Dhruv Kachhadia , I am -
 
 - An Android Application Developer
 
