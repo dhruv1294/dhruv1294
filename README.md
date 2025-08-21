@@ -5,7 +5,7 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 - I am a Computer Science and Engineering graduate from [NIT Tiruchirappalli](https://www.nitt.edu).
-- I am currently working as a Member of Technical Staff at [Oracle Cloud Infrastructure, Big Data Service Team](https://docs.oracle.com/en-us/iaas/Content/bigdata/home.htm)
+- I worked as a Member of Technical Staff for past 2 years at [Oracle Cloud Infrastructure, Big Data Service Team](https://docs.oracle.com/en-us/iaas/Content/bigdata/home.htm)
 - I worked as an 📱 Android Developer at [Delta Force](https://delta.nitt.edu).
 - I  have experience in _C++_, _Python_, _Kotlin_ and _Java_.
 - I am a knowledge seeker & I love to learn new 💻 _Technologies_.
